@@ -52,6 +52,6 @@ Template Editor and click **Run Tests**.
 
 ## License
 
-Copyright 2026 Khaled
+Copyright 2026 Khaled Saif
 
 Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE).
