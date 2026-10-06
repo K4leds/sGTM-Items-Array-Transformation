@@ -1,0 +1,19 @@
+homepage: https://github.com/K4leds/sGTM-Items-Array-Transformation
+versions:
+- sha: REPLACE_WITH_COMMIT_SHA
+  changeNotes: |-
+    Initial gallery release.
+
+    Transforms the GA4 items array in a server-side container:
+
+    - Item filtering: keep only, or drop, whole items by field conditions
+    - Parameter actions: add, drop or replace parameters, conditionally or
+      unconditionally, plus a drop-empty pass
+    - Value transformation: find and replace inside values, with regex
+    - Data type casting: number, integer and string
+    - Added values: static key-value pairs and an optional per-item index
+    - Key mapping: rename keys, optionally discarding unmapped ones
+
+    Contains, Equals, Starts With, Ends With and Regex matching are
+    available throughout. An invalid regex skips its own rule and logs,
+    rather than failing the variable.
