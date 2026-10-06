@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "sGTM Items Array Transformation",
+  "categories": ["UTILITY", "ANALYTICS", "TAG_MANAGEMENT"],
   "description": "Transform the GA4 items array in server-side GTM. Keep or drop whole items, add/drop/replace parameters conditionally, find-and-replace values (with regex), rename keys, enforce data types, and append static or per-item values. Supports Contains, Equals, Starts With, Ends With and Regex matching throughout.",
   "containerContexts": [
     "SERVER"
