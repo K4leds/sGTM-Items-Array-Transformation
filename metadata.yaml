@@ -1,6 +1,6 @@
 homepage: https://github.com/K4leds/sGTM-Items-Array-Transformation
 versions:
-- sha: REPLACE_WITH_COMMIT_SHA
+- sha: a7e7ac7e05fbdc5a0455189c19904af247de7896
   changeNotes: |-
     Initial gallery release.
 
